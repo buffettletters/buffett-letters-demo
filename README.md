@@ -10,6 +10,14 @@ https://github.com/user-attachments/assets/4197aad9-f1b4-43d3-af89-2dcf67b97b57
 
 https://github.com/user-attachments/assets/a4b721fe-7a53-4733-b83f-7b54108da478
 
+> [!IMPORTANT]
+>
+> Si te gusta el proyecto, te animo a colaborar.
+>
+> Este proyecto está financiado con [BuyMeACoffee ☕](https://buymeacoffee.com/buffettletters).
+>
+> En [este post](https://buymeacoffee.com/buffettletters/proyecto-abierto-buffett-letters) se muestran las metas para seguir mejorando este proyecto y hacerlo más accesible y fácil de usar.
+
 ## 🚀 Comandos
 
 ```bash
